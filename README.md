@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Alisson. I'm graduated in Computer Science, with an emphasis on computer systems and games. I like to create programs that help people automating their daily tasks. In my free time, I usually watch movies, play video games (especially cooperatives) and read comics.
+Graduated in Computer Science (Univali), with emphasis on education, computer systems and games. Master of Computer Applications with an emphasis on Artificial Intelligence and Game Analytics. I like to program 😁, in my free time I usually watch movies, play video games (especially cooperatives) and read.
 
 👓 I’m currently finishing my master degree on [lia](https://github.com/lia-univali)
 
