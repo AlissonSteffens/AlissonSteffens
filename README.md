@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Master in Applied Computing with an emphasis on Artificial Intelligence and Game Analytics. Graduated in Computer Science (Univali), with an emphasis on education, computer systems, and games. I like to program 😁, in my free time I usually watch movies, play video games (especially cooperatives) and read.
+Master of Science in Applied Computing with an emphasis on Artificial Intelligence and Game Analytics. Graduated in Computer Science (Univali), with an emphasis on education, computer systems, and games. I like to program 😁, in my free time I usually watch movies, play video games (especially cooperatives) and read.
 
 👓 I’m currently working from home
 
